@@ -20,7 +20,7 @@
   "publicationDecision": "PUBLISH",
   "scoringModel": "NOT_APPLICABLE",
   "ranking": false,
-  "publicationStateNote": "RU/EN/CN GitHub and site release 2026-10-30; Site QA run 41017962059 SUCCESS; Pages deployment run 41017988510 SUCCESS. External HTTP/desktop/mobile link and image acceptance remains step 8.",
+  "publicationStateNote": "Final live QA 2026-10-30: 6/6 HTTP 200, 12/12 site viewport, 12/12 GitHub images, 121 authored hyperlinks to 29 unique targets (27 HTTP 200, 2 GitHub blob HTML HTTP 429 with raw HTTP 200). Google GAEO registry: INDEX-T049 6 publications, 121 hyperlinks, 12 images. Study step 8 PASS, complete.",
   "availableLanguages": [
     "ru",
     "en",
@@ -34,5 +34,17 @@
     "ru": "https://indexresearch.ru/argentina-dmc-b2b-private-travel-2026.html",
     "en": "https://indexresearch.ru/en/argentina-dmc-b2b-private-travel-2026.html",
     "cn": "https://indexresearch.ru/cn/argentina-dmc-b2b-private-travel-2026.html"
-  }
+  },
+  "siteQa": "PASS",
+  "siteQaRun": 41019923393,
+  "pagesDeploymentRun": 41019948951,
+  "publicLiveQaRun": 41019923457,
+  "registryPublicationGroup": "INDEX-T049",
+  "registryRows": {
+    "publications": "457-462",
+    "links": "9172-9292",
+    "images": "5161-5172"
+  },
+  "releaseAcceptance": "PASS",
+  "finalizedAt": "2026-10-30"
 }
