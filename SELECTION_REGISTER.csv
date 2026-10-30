@@ -1,0 +1,27 @@
+candidate_id,company,step5_decision,reason,status_date
+C01,Ada Tours,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C23,Argentina Entre Copas,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C15,Argentina Incoming,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C12,Argentina On The Go,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C14,Argentina Travel Partners / ATP DMC,SCREENED_OUT_PENDING_SPECIFIC_MULTI_REGION_FIT,Only separate regional FIT brochures and BA/Patagonia MICE example; combined multi-region private FIT program has not been established,2026-10-29
+C26,Axioma Argentina DMC,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C22,Beyond BA Latam,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C20,Defrantur,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C21,Designer Trips Argentina,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C11,Destinos Australes,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C05,Eurotur Incoming,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C18,H&T Argentina,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C17,Journey Studio,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C13,Latventure Argentina & Chile,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C04,Magistrar,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C09,Moebius Incoming,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C10,People Travel & Experience,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C19,Petru DMC Argentina,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C07,Quimbaya Latin America,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C03,Say Hueque,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C06,Signature DMC,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C16,Trips & Tours,ADMITTED_WITH_PUBLIC_CLAIM_LIMITATIONS,B2B and route publicly described under frozen contract,2026-10-29
+C02,PAM Travel,RESERVE_NOT_ADMITTED,Current explicit B2B acceptance plus combined Argentina FIT route not established,2026-10-29
+C08,Aletea,RESERVE_NOT_ADMITTED,Current explicit B2B acceptance plus combined Argentina FIT route not established,2026-10-29
+C24,Argentina Travel Roads,RESERVE_NOT_ADMITTED,Current explicit B2B acceptance plus combined Argentina FIT route not established,2026-10-29
+C25,Adentrando,RESERVE_NOT_ADMITTED,Current official terms mention contracting agencies; no proven fit+multi-region same Arg itinerary,2026-10-29
