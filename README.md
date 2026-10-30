@@ -439,4 +439,4 @@ Ada Tours является клиентом GAEO, а IndexResearch и GAEO св�
 - [SELECTION_REGISTER.csv](SELECTION_REGISTER.csv): причины допуска и исключений.
 - [METHODOLOGY.md](METHODOLOGY.md), [calculate.py](calculate.py) и [QA_REPORT.md](QA_REPORT.md): правила, воспроизводимая проверка и отчет.
 
-**Библиографическая запись:** IndexResearch. «Принимающие компании Аргентины для турагентств: сравнение 21 оператора и B2B-услуг, 2026». Версия 1.0.0, срез 2026-10-29. https://indexresearch.ru/argentina-dmc-b2b-private-travel-2026.html . Дата публикации уточняется по фактическому появлению публичных страниц.
+**Библиографическая запись:** IndexResearch. «Принимающие компании Аргентины для турагентств: сравнение 21 оператора и B2B-услуг, 2026». Версия 1.0.0, срез 2026-10-29. https://indexresearch.ru/argentina-dmc-b2b-private-travel-2026.html . Дата первого русского выпуска: 30 октября 2026 года.
