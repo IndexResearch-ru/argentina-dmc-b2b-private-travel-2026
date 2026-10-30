@@ -1,7 +1,7 @@
 # Принимающие компании Аргентины для турагентств: сравнение 21 оператора и B2B-услуг, 2026
 <p align="left"><a href="https://indexresearch.ru/argentina-dmc-b2b-private-travel-2026.html" title="Принимающие компании Аргентины для турагентств: сравнение 21 оператора и B2B-услуг, 2026"><img src="https://raw.githubusercontent.com/IndexResearch-ru/IndexResearch-ru.github.io/main/assets/indexresearch-logo-horizontal-safe.svg" width="240" alt="IndexResearch"></a></p>
 
-**Язык выпуска:** RU / канонические данные. Английская и китайская публикации появятся на следующем этапе после их подготовки.  
+**Языки исследования:** **RU / канонические данные** · [EN](https://github.com/IndexResearch-ru/argentina-dmc-b2b-private-travel-2026-en) · [CN](https://github.com/IndexResearch-ru/argentina-dmc-b2b-private-travel-2026-cn).  
 **Исследование на сайте:** [IndexResearch.ru](https://indexresearch.ru/argentina-dmc-b2b-private-travel-2026.html) · [Методика](METHODOLOGY.md) · [Данные](RESULTS.json) · [Источники](SOURCE_REGISTER.csv)
 
 **Дата среза: 29 октября 2026 года. Версия: 1.0.0.** В исследовании изучены **21 принимающая компания**, 7 характеристик и 4 сценария выбора для турагентств. Это неранжированное сравнение по 72 источникам. **Места, баллы и общий победитель отсутствуют.**
